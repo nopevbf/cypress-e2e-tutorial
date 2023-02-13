@@ -1,0 +1,17 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "cypress-automation",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress-tutorial"
+  ],
+  "author": "nopevbf",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
